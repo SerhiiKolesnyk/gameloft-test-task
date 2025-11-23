@@ -23,6 +23,12 @@ Users can browse products, add them to the cart, and see the total price with di
 - Vite for fast development
 - Tailwind CSS for styling
 
+## Demo
+
+Check out the live demo here:  
+[https://gameloft-test-task.vercel.app](https://gameloft-test-task.vercel.app)
+
+
 ## Installation
 
 ```bash
@@ -38,5 +44,3 @@ npm install
 # Start development server
 npm run dev
 
-## Demo
-[Click here to view the live demo](https://gameloft-test-task.vercel.app)
